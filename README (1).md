@@ -5,13 +5,12 @@ EXP NO: 5 GENERATION AND DETECTION OF AM
 
 AIM:
 
-To generate and detect the amplitude modulation and demodulation u s i n g COLAB and to calculate modulation index of AM.
+To implement and analyze Amplitude modulation (AM) using Python's NumPy and Matplotlib libraries. 
 
-EQUIPMENTS REQUIRED
+Apparatus Required:
 
-• Computer with i3 Processor
-
-• Goolge COLAB
+1.	Software: Python with NumPy and Matplotlib libraries
+2.	Hardware: Personal Computer
 
 THEORY:
 
@@ -119,6 +118,7 @@ MODEL GRAPH:
 RESULT:
 
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
+
 
 
 
